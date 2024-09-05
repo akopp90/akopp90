@@ -8,9 +8,6 @@
 
 ### 📫 Like to meet me?
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 👇 Hit in your console or terminal to connect with me.
 
@@ -20,15 +17,15 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```javascript
 const Andy = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "C#", "PHP"],
+    code: ["Javascript", "Python", "React", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express", "Next JS"],
+            js: ["Node", "Express", "Next JS"],
         },
         
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite", "Mongodb", "Postgres", "MSSQL"],
+        devOps: ["AWS", "Docker🐳", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite", "Postgres", "MSSQL"],
     },
 };
 ```
